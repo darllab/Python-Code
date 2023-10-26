@@ -1,0 +1,11 @@
+-- USER INPUT USING PYTHON --
+
+name = input("Enter your name: ")
+plant = input("Enter your plant: ")
+job_desc = input("Enter your position: ")
+department = input("Enter your department: ")
+
+print(f"Hello {name}!")
+print(f"You are designated at {plant}")
+print(f"You will be working as {job_desc}")
+print(f"You are belong to {department}")
